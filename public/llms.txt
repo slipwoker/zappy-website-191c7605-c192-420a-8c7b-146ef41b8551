@@ -1,0 +1,117 @@
+# Joy Restaurant (Nwanyi Caro) — Generative Engine Optimization Map
+
+> A restaurant website designed to provide a seamless digital dining experience, featuring an interactive menu, table reservation system, and online ordering capabilities. The site aims to bridge the gap between the physical restaurant and its customers online.
+
+---
+
+## Pages
+
+### Home
+https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app
+Step into Joy Restaurant (Nwanyi Caro) for a world-class dining adventure online. Reserve your table, explore our menu, and taste excellence inspired by Michelin star restaurants.
+
+### Menu Highlights
+https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/menu-highlights
+Discover dishes that rival the best Tokyo restaurant and Noma restaurant experiences. Browse our interactive menu highlights and find your next unforgettable meal at Joy Restaurant.
+
+### Reservations
+https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/reservations
+Secure your spot at Joy Restaurant (Nwanyi Caro) with effortless online reservations. Enjoy a dining atmosphere reminiscent of the iconic CN Tower restaurant, just a click away.
+
+### Events & Catering
+https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/events-catering
+Elevate your gatherings with Joy Restaurant&#39;s events and catering. We bring the vibrant spirit of No 1 Chinese Restaurant and Great Wall Chinese Restaurant to your special occasions.
+
+### Contact
+https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/contact
+Reach Joy Restaurant (Nwanyi Caro) for warm hospitality that echoes Hong Kong Chinese Restaurant charm. Get directions, ask questions, or plan your visit with us today.
+
+### Products
+https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/products
+Our Products - Joy Restaurant (Nwanyi Caro)
+
+### Cart
+https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/checkout
+Checkout
+
+### Login
+https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/login
+Customer Login
+
+### Account
+https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/account
+My Account
+
+### Order Success
+https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/product/:slug
+Product Details - Joy Restaurant (Nwanyi Caro)
+
+### Category
+https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/category/:slug
+Products - Joy Restaurant (Nwanyi Caro)
+
+### Thank You
+https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/thank-you
+Joy Restaurant (Nwanyi Caro) - Thank You
+
+## Legal & Policy
+
+### Privacy Policy
+https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Joy Restaurant (Nwanyi Caro)
+A restaurant website designed to provide a seamless digital dining experience, featuring an interactive menu, table reservation system, and online ordering capabilities. The site aims to bridge the gap between the physical restaurant and its customers online.
+
+## Services/Products
+- Menu display
+- Table reservations
+- Online ordering
+
+## Target Audience
+- Urban Foodies
+- Tech-Savvy Professionals
+- Family Diners
+- Business Lunch Crowd
+- Local Food Enthusiasts
+- People in Nsukka, Enugu
+- Events and Politics
+
+## Industry
+Restaurant
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/sitemap.xml
+- Robots: https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/llms-full.txt
+- Products (JSON): https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/products.json
+- Products (Google Merchant RSS): https://joy-restaurant-nwanyi-caro-191c7605.zappy5.app/product-feed.xml
